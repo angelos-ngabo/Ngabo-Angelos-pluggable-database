@@ -81,5 +81,11 @@ SQL> show pdbs;
 ---------- ------------------------------ ---------- ----------
          2 PDB$SEED                       READ ONLY  NO
          3 ORCLPDB                        READ WRITE NO
-         4 PLSQL_CLASS2024DB              READ WRITE NO
+         4 PLSQL_CLASS2024DB              READ WRITE NO![Per](https://github.com/user-attachments/assets/ea48054c-7085-4a91-95d2-c916f9f9f40c)
+
 ```
+![Per](https://github.com/user-attachments/assets/429c7207-e815-4627-a6e3-b922df05400e)
+![Per 2](https://github.com/user-attachments/assets/261be972-66ec-4b58-95b8-2139ce5a5115)
+
+
+
